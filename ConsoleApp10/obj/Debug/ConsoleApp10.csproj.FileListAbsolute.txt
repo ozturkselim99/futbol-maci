@@ -1,0 +1,13 @@
+C:\Users\SELİM\Source\Repos\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.csprojAssemblyReference.cache
+C:\Users\SELİM\Source\Repos\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.csproj.CoreCompileInputs.cache
+C:\Users\SELİM\Source\Repos\ConsoleApp10\ConsoleApp10\bin\Debug\ConsoleApp10.exe.config
+C:\Users\SELİM\Source\Repos\ConsoleApp10\ConsoleApp10\bin\Debug\ConsoleApp10.exe
+C:\Users\SELİM\Source\Repos\ConsoleApp10\ConsoleApp10\bin\Debug\ConsoleApp10.pdb
+C:\Users\SELİM\Source\Repos\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.exe
+C:\Users\SELİM\Source\Repos\ConsoleApp10\ConsoleApp10\obj\Debug\ConsoleApp10.pdb
+D:\NESNEYE DAYALI PROGRAMLA ÖDEVLERİ\ödev2\ConsoleApp10\bin\Debug\ConsoleApp10.exe.config
+D:\NESNEYE DAYALI PROGRAMLA ÖDEVLERİ\ödev2\ConsoleApp10\bin\Debug\ConsoleApp10.exe
+D:\NESNEYE DAYALI PROGRAMLA ÖDEVLERİ\ödev2\ConsoleApp10\bin\Debug\ConsoleApp10.pdb
+D:\NESNEYE DAYALI PROGRAMLA ÖDEVLERİ\ödev2\ConsoleApp10\obj\Debug\ConsoleApp10.csprojAssemblyReference.cache
+D:\NESNEYE DAYALI PROGRAMLA ÖDEVLERİ\ödev2\ConsoleApp10\obj\Debug\ConsoleApp10.exe
+D:\NESNEYE DAYALI PROGRAMLA ÖDEVLERİ\ödev2\ConsoleApp10\obj\Debug\ConsoleApp10.pdb
